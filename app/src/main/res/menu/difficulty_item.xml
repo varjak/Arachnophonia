@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Brave"
+        android:id="@+id/submenu_normal" />
+    <item android:title="Heroic"
+        android:id="@+id/submenu_hard" />
+</menu>

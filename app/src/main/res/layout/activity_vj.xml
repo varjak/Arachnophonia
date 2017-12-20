@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/bioLib.test.phobia1"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/Color1"
+    android:backgroundTint="@color/Color1"
+    android:orientation="vertical"
+    tools:context="bioLib.test.phobia3.vjActivity">
+
+
+    <Button
+        android:id="@+id/buttonDB"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_below="@+id/imageView"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="52dp"
+        android:backgroundTint="@color/Color3"
+        android:text="Yes"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonDB"
+        android:layout_alignBottom="@+id/buttonDB"
+        android:layout_marginStart="25dp"
+        android:layout_toEndOf="@+id/buttonDB"
+        android:backgroundTint="@android:color/darker_gray"
+        android:text="No"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="83dp"
+        android:src="@drawable/save" />
+
+</RelativeLayout>
+
+
+

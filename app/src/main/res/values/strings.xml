@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BioLibTestActivity!</string>
+    <string name="app_name">Phobia3_App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_search_device">SearchDeviceActivity</string>
+
+    <string name="resultMessage_dialog">result message dialog. ex: Your progress</string>
+    <string name="positiveButton_dialog">OK!</string>
+    <string name="titleMessage_dialog">title message dialog. ex: Congrats!</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="messageBetter">You are one step closer to conquering your fear!</string>
+    <string name="heartRate">Your Heart Rate: </string>
+
+    <string name="messageWorse">Onde day you shall become stronger than your fear...</string>
+
+
+
+</resources>

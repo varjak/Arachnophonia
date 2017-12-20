@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biolib.sdk.biolib.sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/biolib.sdk/biolib.sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
